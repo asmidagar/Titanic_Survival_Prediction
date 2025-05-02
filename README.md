@@ -46,19 +46,6 @@ This project uses a **Random Forest Classifier** to predict the survival of pass
 
 ---
 
-## 📦 Requirements
-
-```txt
-pandas
-numpy
-scikit-learn
-seaborn
-matplotlib
-gradio
-```
-
-
-
 ## 📚 Acknowledgements
 
 * [Titanic Dataset – Kaggle](https://www.kaggle.com/c/titanic)
