@@ -1,5 +1,3 @@
-# NeuroNexu
-
 # 🚢 Titanic Survival Prediction using Machine Learning
 
 This project uses a **Random Forest Classifier** to predict the survival of passengers aboard the Titanic. Based on key features such as passenger class, age, sex, fare, and embarkation point, the model determines the likelihood of survival. An intuitive **Gradio interface** allows users to interact with the model in real-time.
